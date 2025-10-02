@@ -28,11 +28,11 @@ body {
   height: auto;
 }
 
-.book h2 {
+.book h1{
   margin: 10px 0 5px;
 }
 
-.author {
+.p{
   color: #777777;
   font-size: 14px;
 }
